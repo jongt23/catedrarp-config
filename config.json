@@ -45,7 +45,8 @@
     {
       "date": "15 OCT 2025",
       "title": "Evento de Halloween",
-      "description": "Preparaos para el evento más terrorífico del año. Premios exclusivos y sustos garantizados."
+      "description": "Preparaos para el evento más terrorífico del año. Premios exclusivos y sustos garantizados.",
+      "link": "#"
     }
   ],
   "galleryItems": [
@@ -62,7 +63,8 @@
     {
       "title": "Por Tierra, Mar y Aire",
       "url": "img/gallery/wall3.webp",
-      "description": "Siempre hay algo que hacer en CatedraRP."
+      "description": "Siempre hay algo que hacer en CatedraRP.",
+      "link": "#"
     },
     {
       "title": "La Ciudad Nunca Duerme",
@@ -71,6 +73,7 @@
     }
   ]
 }
+
 
 
 
