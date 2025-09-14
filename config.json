@@ -1,10 +1,10 @@
 {
-  "fivemServerCode": "68xz6d",
-  "heroSubtitle": "Bienvenidos al ROL PURO",
+  "fivemServerCode": "v84r4e", 
+  "heroSubtitle": "Bienvenidos",
   "navLinks": {
     "discord": "https://discord.gg/rxQ9Rfn4p2",
-    "store": "#",
-    "inmobiliaria": "#"
+    "store": "https://catedra-rp.tebex.io/",
+    "inmobiliaria": "https://raulgame05.wixsite.com/inmobiliaria-catedra"
   },
   "socialLinks": {
     "x": "https://x.com/catedrarp",
@@ -30,16 +30,6 @@
     ]
   },
   "serverStats": [
-    {
-      "icon": "fa-car",
-      "label": "Vehículos únicos",
-      "value": "250+"
-    },
-    {
-      "icon": "fa-briefcase",
-      "label": "Trabajos disponibles",
-      "value": "30+"
-    },
     {
       "icon": "fa-clock",
       "label": "Horas de rol acumuladas",
@@ -81,5 +71,6 @@
     }
   ]
 }
+
 
 
