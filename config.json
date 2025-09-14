@@ -1,27 +1,43 @@
 {
+  // Código del servidor de FiveM. Se obtiene de la URL del servidor, por ejemplo: cfx.re/join/XXXXXX
   "fivemServerCode": "68xz6d",
+
+  // Subtítulo que aparece debajo del título principal "CATEDRA RP" en la sección del video.
   "heroSubtitle": "Bienvenidos al ROL PURO",
+
+  // Enlaces para los botones de la barra de navegación superior.
+  // "discord": Enlace de invitación a tu servidor de Discord.
+  // "store": Enlace a tu tienda (Tebex, etc.). Si aún no tienes, déjalo como "#" para desactivar el enlace.
+  // "inmobiliaria": Enlace a la web de la inmobiliaria. Si no tienes, déjalo como "#".
   "navLinks": {
     "discord": "https://discord.gg/rxQ9Rfn4p2",
     "store": "#",
     "inmobiliaria": "#"
   },
+
+  // Enlaces a las redes sociales. Estos se mostrarán en varios lugares de la web.
+  // Si no quieres mostrar una red social, simplemente elimina la línea correspondiente.
   "socialLinks": {
     "x": "https://x.com/catedrarp",
     "youtube": "https://youtube.com/catedrarp",
     "instagram": "https://instagram.com/catedrarp",
     "tiktok": "https://tiktok.com/@catedrarp"
   },
+
+  // Configuración de los streamers de la comunidad.
+  // La web mostrará automáticamente a los que estén en directo.
   "streaming": {
+    // Lista de nombres de usuario de Twitch (en minúsculas).
     "twitchUsers": [
-      "josepo_90",
-      "bronzafamily",
-      "valorant",
+      "auronplay",
+      "ibai",
       "carola",
       "coolifegame",
-      "cayetano_lol",
-      "saralyche"
+      "axozer",
+      "aquelmapa",
+      "polispol"
     ],
+    // Lista de nombres de usuario de Kick (en minúsculas).
     "kickUsers": [
       "ijenz",
       "laugamer",
@@ -29,6 +45,11 @@
       "imantado"
     ]
   },
+  // Estadísticas personalizadas que aparecen en la sección "Estadísticas del Servidor".
+  // Puedes añadir o quitar elementos de esta lista.
+  // "icon": usa clases de Font Awesome (ej: "fa-car", "fa-users"). Puedes buscar iconos en https://fontawesome.com/search
+  // "label": el texto que describe la estadística.
+  // "value": el valor a mostrar.
   "serverStats": [
     {
       "icon": "fa-car",
@@ -46,6 +67,8 @@
       "value": "50,000+"
     }
   ],
+  // Lista de noticias o novedades. Se mostrarán en la sección "Últimas Novedades".
+  // La web las muestra en el orden en que aparecen aquí (de arriba a abajo).
   "newsItems": [
     {
       "date": "25 OCT 2025",
@@ -58,6 +81,10 @@
       "description": "Preparaos para el evento más terrorífico del año. Premios exclusivos y sustos garantizados."
     }
   ],
+  // Elementos para la galería de imágenes.
+  // "title": Título que se muestra sobre la imagen al pasar el ratón y en el lightbox.
+  // "url": Ruta a la imagen (ej: "img/gallery/foto1.webp"). Las imágenes deben estar en la carpeta 'img/gallery/'.
+  // "description": (Opcional) Texto que aparece debajo del título en el lightbox al hacer clic en la imagen.
   "galleryItems": [
     {
       "title": "Persecución Policial",
@@ -78,7 +105,11 @@
       "title": "La Ciudad Nunca Duerme",
       "url": "img/gallery/wall4.webp",
       "description": "¿Te lo vas a perder?"
+    },
+    {
+      "title": "Test",
+      "url": "https://r2.fivemanage.com/Dmf1OGFrHsfUKTtYPZoqJ/_b908f532-a43d-4b86-b6dd-4553ad74f6f9.jpeg",
+      "description": "Descripción de prueba"
     }
   ]
 }
-
