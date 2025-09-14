@@ -1,0 +1,83 @@
+{
+  "fivemServerCode": "68xz6d",
+  "heroSubtitle": "Bienvenidos al ROL PURO",
+  "navLinks": {
+    "discord": "https://discord.gg/catedrarp",
+    "store": "#",
+    "inmobiliaria": "#"
+  },
+  "socialLinks": {
+    "x": "https://x.com/catedrarp",
+    "youtube": "https://youtube.com/catedrarp",
+    "instagram": "https://instagram.com/catedrarp",
+    "tiktok": "https://tiktok.com/@catedrarp"
+  },
+  "streaming": {
+    "twitchUsers": [
+      "josepo_90",
+      "bronzafamily",
+      "valorant",
+      "carola",
+      "coolifegame",
+      "cayetano_lol",
+      "saralyche"
+    ],
+    "kickUsers": [
+      "ijenz",
+      "laugamer",
+      "desst3",
+      "imantado"
+    ]
+  },
+  "serverStats": [
+    {
+      "icon": "fa-car",
+      "label": "Vehículos únicos",
+      "value": "250+"
+    },
+    {
+      "icon": "fa-briefcase",
+      "label": "Trabajos disponibles",
+      "value": "30+"
+    },
+    {
+      "icon": "fa-clock",
+      "label": "Horas de rol acumuladas",
+      "value": "50,000+"
+    }
+  ],
+  "newsItems": [
+    {
+      "date": "25 OCT 2025",
+      "title": "Actualización v1.5",
+      "description": "¡Nuevo sistema de robos a bancos, vehículos importados y más! Revisa el canal de #novedades en Discord."
+    },
+    {
+      "date": "15 OCT 2025",
+      "title": "Evento de Halloween",
+      "description": "Preparaos para el evento más terrorífico del año. Premios exclusivos y sustos garantizados."
+    }
+  ],
+  "galleryItems": [
+    {
+      "title": "Persecución Policial",
+      "url": "img/gallery/wall1.webp",
+      "description": "La LSPD en plena acción durante una persecución a alta velocidad."
+    },
+    {
+      "title": "Mejor en compañía",
+      "url": "img/gallery/wall2.webp",
+      "description": "Nunca sabes cuando necesitarás la ayuda de un amigo."
+    },
+    {
+      "title": "Por Tierra, Mar y Aire",
+      "url": "img/gallery/wall3.webp",
+      "description": "Siempre hay algo que hacer en CatedraRP."
+    },
+    {
+      "title": "La Ciudad Nunca Duerme",
+      "url": "img/gallery/wall4.webp",
+      "description": "¿Te lo vas a perder?"
+    }
+  ]
+}
