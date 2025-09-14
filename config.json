@@ -1,6 +1,6 @@
 {
   "fivemServerCode": "v84r4e", 
-  "heroSubtitle": "Bienvenidos",
+  "heroSubtitle": "",
   "navLinks": {
     "discord": "https://discord.gg/rxQ9Rfn4p2",
     "store": "https://catedra-rp.tebex.io/",
@@ -71,6 +71,7 @@
     }
   ]
 }
+
 
 
 
