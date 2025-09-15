@@ -86,7 +86,7 @@
     },
     {
       "title": "Los Santos Police Department",
-      "url": "img/locales/taxis.webp",
+      "url": "img/locales/lspdEpic.png",
       "description": "Servir y Proteger.",
       "link": "local.html?nombre=lspd"
     }
@@ -133,6 +133,7 @@
     }
   }
 }
+
 
 
 
