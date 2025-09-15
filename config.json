@@ -47,6 +47,12 @@
       "title": "Evento de Halloween",
       "description": "Preparaos para el evento más terrorífico del año. Premios exclusivos y sustos garantizados.",
       "link": "#"
+    },
+    {
+      "date": "15 SEP 2025",
+      "title": "Negocios & Locales",
+      "description": "Nueva sección de negocios y locales comerciales. ¡Abre tu propio negocio y sé tu propio jefe!",
+      "link": "locales.html"
     }
   ],
   "galleryItems": [
@@ -102,6 +108,7 @@
     }
   }
 }
+
 
 
 
