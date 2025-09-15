@@ -70,9 +70,39 @@
       "title": "La Ciudad Nunca Duerme",
       "url": "img/gallery/wall4.webp",
       "description": "¿Te lo vas a perder?"
+    },
+    {
+      "title": "Downtown Cab",
+      "url": "https://i.blogs.es/799fa5/taxis-gta-online/1366_521.jpeg",
+      "description": "Servicio de taxis 24/7 en toda la ciudad de Los Santos.",
+      "link": "local.html?nombre=taxis"
     }
-  ]
+  ],
+  "locales": {
+    "taxis": {
+      "nombre": "Taxis de Los Santos",
+      "logo": "img/locales/logotaxis.webp",
+      "heroImage": "img/locales/taxis.webp",
+      "slogan": "Tu transporte de confianza en la ciudad.",
+      "descripcion": "Servicio de taxis 24/7 en toda la ciudad de Los Santos.\nNuestros conductores profesionales y vehículos en perfecto estado te llevarán a tu destino de forma rápida y segura.",
+      "servicios": [
+        { "nombre": "Traslados Urbanos", "descripcion": "Viajes rápidos dentro de la ciudad." },
+        { "nombre": "Servicio al Aeropuerto", "descripcion": "Te llevamos o recogemos del Aeropuerto Internacional de Los Santos." },
+        { "nombre": "Tours Turísticos", "descripcion": "Descubre los lugares más emblemáticos de la ciudad con nuestros tours personalizados." }
+      ],
+      "galleryItems": [
+        { "title": "Nuestra Flota", "url": "https://i.blogs.es/979959/gta-taxi2/450_1000.webp" },
+        { "title": "Conductor en servicio", "url": "https://i.blogs.es/69e085/gta-mag-vapid-taxi-gtao-683125/1366_2000.jpeg" },
+        { "title": "Vista nocturna", "url": "https://i.blogs.es/799fa5/taxis-gta-online/1366_521.jpeg" }
+      ],
+      "contacto": {
+          "telefono": "555-TAXI",
+          "discord_channel": "https://discord.com/"
+      }
+    }
+  }
 }
+
 
 
 
