@@ -83,6 +83,12 @@
       "url": "https://i.blogs.es/799fa5/taxis-gta-online/1366_521.jpeg",
       "description": "Servicio de taxis 24/7 en toda la ciudad de Los Santos.",
       "link": "local.html?nombre=taxis"
+    },
+    {
+      "title": "Los Santos Police Department",
+      "url": "img/locales/taxis.webp",
+      "description": "Servir y Proteger.",
+      "link": "local.html?nombre=lspd"
     }
   ],
   "locales": {
@@ -106,9 +112,28 @@
           "telefono": "555-TAXI",
           "discord_channel": "https://discord.com/"
       }
+    },
+    "lspd": {
+      "nombre": "Los Santos Police Department",
+      "logo": "img/locales/LSPDpatrullas.png",
+      "heroImage": "img/locales/lspdEpic.png",
+      "slogan": "Servir y Proteger",
+      "descripcion": "Departamento de policía de Los Santos.\nEl mejor cuerpo de policía de todo el mundo, velará por la seguridad de los ciudadanos de Los Santos.",
+      "servicios": [
+        { "nombre": "Oposiciones para Administrativos", "descripcion": "Accede al cuerpo como administrativo con posibilidades de ser un oficial de pleno derecho." },
+        { "nombre": "Formación para cadetes", "descripcion": "Aprovecha la oportunidad entrando a la academia y demostrar lo que vales." }
+      ],
+      "galleryItems": [
+        { "title": "Nuestra Plantilla", "url": "img/locales/plantillalspd.png" }
+      ],
+      "contacto": {
+          "telefono": "911-LSPD",
+          "discord_channel": "https://discord.gg/ea3NUJ8qNs"
+      }
     }
   }
 }
+
 
 
 
